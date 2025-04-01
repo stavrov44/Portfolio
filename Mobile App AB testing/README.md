@@ -9,17 +9,8 @@
 - numpy
 - math
 - scipy.stats
-
-# библиотеки визуализации данных
-import seaborn as sns
-import matplotlib.pyplot as plt
-
-# библиотека для преобразования к типу данных "дата"
-import datetime as dt
-
-# палитры графиков для людей со всеми типами зрения
-sns.set_palette('colorblind') 
-sns.set_style('whitegrid')            
+- seaborn
+- matplotlib
 
 ## Общий вывод
 Было проведено исследование поведения пользователей мобильного приложения и изучение воронки продаж.  
