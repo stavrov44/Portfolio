@@ -9,8 +9,7 @@
 - python
 - pandas
 - numpy
-- math
-- scipy.stats
+- scipy
 - seaborn
 - matplotlib
 
