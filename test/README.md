@@ -1,4 +1,4 @@
-# Изучение поведения пользователей мобильного приложения
+# Проверка гипотез для увеличения выручки крупного интернет-магазина
 [ipynb](https://github.com/stavrov44/Portfolio/blob/main/Mobile%20App%20AB%20testing/P13_Portfolio.ipynb)
 
 ## Описание проекта
