@@ -1,5 +1,5 @@
 # Проверка гипотез для увеличения выручки интернет-магазина
-[ipynb](Online store hypotheses testing/P12_Portfolio.ipynb)
+[ipynb](https://github.com/stavrov44/Portfolio/blob/main/Online%20store%20hypotheses%20testing/P12_Portfolio.ipynb)
 
 ## Описание проекта
 Крупный интернет-магазин планирует проверить список гипотез для увеличения выручки. Список подготовлен совместно с отделом маркетинга.
