@@ -1,5 +1,6 @@
 # Анализ оттока клиентов банка
 [html без кода](https://stavrov44.github.io/Portfolio/bank_churn/P14_Portfolio_text_only.html)
+[html с кодом](https://stavrov44.github.io/Portfolio/bank_churn/P14_Portfolio_full.html)
 
 ## Описание проекта
 Заказчик — отдел маркетинга регионального банка.
