@@ -1,5 +1,5 @@
 # Аналитический дашборд электронной коммерции
-[презентация без кода](https://stavrov44.github.io/Portfolio/BI_ecomm/1_BI_ecom_text_only.html
+[презентация без кода](https://stavrov44.github.io/Portfolio/BI_ecomm/1_BI_ecom_text_only.html)
 
 ## Описание проекта
 В менеджмент интернет-магазина пришёл новый директор и запросил обзор продаж, чтобы ознакомиться с текущим положением дел.
@@ -9,9 +9,9 @@
 
 ## Навыки и инструменты
 - SQL
-- pandas
-- numpy
-- scipy
+- ClickHouse
+- Apache Superset
+- CSS
 
 
 ## Общий вывод
